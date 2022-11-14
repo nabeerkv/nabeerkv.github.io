@@ -266,7 +266,7 @@ img {
 }
 .home__blob {
   width: 200px;
-  fill: var(--first-color);
+  fill: var(--body-color);
 }
 .home__blob-img {
   width: 100px; /*230*/
@@ -854,7 +854,7 @@ img {
   }
   .home__content {
     padding-top: 5.5rem;
-    column-gap: 2rem;
+    column-gap: 1rem;
   }
   .home__blob {
     width: 270px;
